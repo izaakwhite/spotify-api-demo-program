@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Spotify Clone Client Render  
+
+This is all the code for the client render side of the project see below on how to build for self. Made via tutorial from Web Dev Simplified all credits to him. Please make sure to hide you client secret and `npm i` the correct modules
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
